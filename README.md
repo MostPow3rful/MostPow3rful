@@ -5,23 +5,23 @@ import (
     Kian "https://github.com/JesusKian/"
 )
 
-func ᴍᴀɪɴ() {
+func main() {
     var Me *Kian.About = &Kian.About{
-        FirstName  : "ᴋɪᴀɴ",
-        LastName   : "ꜱʜᴀʜɪ",
+        FirstName  : "Kian",
+        LastName   : "Shahi",
         Age        : 17,
-        Job        : "ɴᴏᴛʜɪɴɢ ʏᴇᴛ",
+        Job        : "Nothing Yet",
         Interested : []string{
-            "ᴄᴛꜰ",
-            "ʙᴀᴄᴋ-ᴇɴᴅ",
-            "ᴍᴀʟᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ",
-            "ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ꜱᴇᴄᴜʀɪᴛʏ",
+            "CTF",
+            "Back-End",
+            "Malware Development",
+            "Web Application Security",
         },
         Hobbies    : []string{
-            "ɢᴀᴍɪɴɢ",
-            "ʜᴏᴏᴋᴀʜ",
-            "ʙᴀꜱᴋᴇᴛʙᴀʟʟ",
-            "ᴡᴀᴛᴄʜɪɴɢ ᴍᴏᴠɪᴇꜱ",
+            "Gaming",
+            "Hookah",
+            "Basketball",
+            "Watching Movies",
         },
     }
 }
