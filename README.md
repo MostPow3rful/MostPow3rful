@@ -53,7 +53,7 @@ func main() {
 
 <h1 align="center">✉️ ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ</h1>
 <p align="center">
-    <a href="https://instagram.com/kianlshahi">
+    <a href="https://instagram.com/itskianshahi">
         <img src="https://skillicons.dev/icons?i=instagram">
     </a>
     <a href="https://twitter.com/0x23JS">
