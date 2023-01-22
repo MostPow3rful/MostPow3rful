@@ -56,7 +56,7 @@ func main() {
     <a href="https://instagram.com/itskianshahi">
         <img src="https://skillicons.dev/icons?i=instagram">
     </a>
-    <a href="https://twitter.com/0x23JS">
+    <a href="https://twitter.com/MostPow3rful">
         <img src="https://skillicons.dev/icons?i=twitter">
     </a>
 </p>
