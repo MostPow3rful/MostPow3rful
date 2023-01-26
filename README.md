@@ -36,7 +36,7 @@ func main() {
     </br>
     <img src="https://skillicons.dev/icons?i=vscode,discord,bots,md&theme=dark&perline=5" />
     </br>
-    <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" height=50>
+    <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height=50>
   </a>
 </p>
 
