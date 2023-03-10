@@ -14,13 +14,11 @@ func main() {
         Interested : []string{
             "CTF",
             "Back-End",
-            "Malware Development",
             "Web Application Security",
         },
         Hobbies    : []string{
             "Gaming",
             "Hookah",
-            "Basketball",
             "Watching Movies",
         },
     }
@@ -29,7 +27,7 @@ func main() {
 
 <br>
 
-<h1 align="center">☘️ ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ</h1>
+<h1 align="center">☘️ Technologies</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,python,js,html,css,bash,linux,mysql,git,github&theme=dark&perline=5" />
@@ -50,16 +48,6 @@ func main() {
 </p>
 
 <br>
-
-<h1 align="center">✉️ ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ</h1>
-<p align="center">
-    <a href="https://instagram.com/itskianshahi">
-        <img src="https://skillicons.dev/icons?i=instagram">
-    </a>
-    <a href="https://twitter.com/MostPow3rful">
-        <img src="https://skillicons.dev/icons?i=twitter">
-    </a>
-</p>
 
 <br>
 
