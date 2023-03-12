@@ -32,25 +32,31 @@ func main() {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,python,js,html,css,bash,linux,mysql&theme=dark&perline=10" />
     </br>
-    <img src="https://skillicons.dev/icons?i=vscode,discord,bots,md,git,github,postman&theme=dark&perline=10" />
-    </br>
     <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height=50>
   </a>
 </p>
 
 </br>
 
-<h1 align="center">🍁 ꜰᴀᴍɪʟɪᴀʀ</h1>
+<h1 align="center">❄️ Tools</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,discord,bots,md,git,github,postman&theme=dark&perline=10" />
+  </a>
+</p>
+
+</br>
+
+<h1 align="center">🍁 Familiar</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,wasm,php,django,flask&theme=dark&perline=10" />
     </br>
 </p>
 
-
 <br>
 
-<h1 align="center">⭐️ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h1>
+<h1 align="center">⭐️ Github Stats</h1>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusKian&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=323540&title_color=5294E2&icon_color=5294E2&text_color=ffffff&count_private=true"  alt=""/>
 </div>
