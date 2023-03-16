@@ -29,7 +29,7 @@ func main() {
 <h1 align="center">☘️ Technologies</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,js,html,css,bash,linux,mysql&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=go,python,js,html,css,bash,mysql&theme=dark&perline=10" />
     </br>
     <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height=50>
   </a>
@@ -40,7 +40,7 @@ func main() {
 <h1 align="center">❄️ Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,discord,bots,md,git,github,postman&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=vscode,discord,bots,md,git,github,postman,linux&theme=dark&perline=10" />
   </a>
 </p>
 
