@@ -2,7 +2,7 @@
 package main
 
 import (
-    Kian "https://github.com/JesusKian/"
+    Kian "https://github.com/MostPow3rful/"
 )
 
 func main() {
