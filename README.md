@@ -11,7 +11,7 @@ func main() {
         LastName   : "Shahi",
         Age        : 17,
         Job        : "Freelancer",
-        roles : map[string]string{
+        roles      : map[string]string{
             "Junior" : "Back-End (GO) Developer",
             "Junior" : "Web Application Security",
         },
