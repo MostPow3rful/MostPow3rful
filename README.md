@@ -10,14 +10,16 @@ func main() {
         FirstName  : "Kian",
         LastName   : "Shahi",
         Age        : 17,
-        Job        : "Nothing Yet",
-        Interested : []string{
-            "CTF",
-            "Back-End",
-            "Web Application Security",
+        Job        : "Freelancer",
+        roles : map[string]string{
+            "Junior" : "Back-End (GO) Developer",
+            "Junior" : "Web Application Security",
         },
         Hobbies    : []string{
             "Hookah",
+            "Playing CTF",
+            "Playing Basketball",
+            "Playing Video Games",
             "Watching Conferences & Movies",
         },
     }
@@ -26,36 +28,32 @@ func main() {
 
 <br>
 
-<h1 align="center">☘️ Technologies</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,js,html,css,bash,mysql&theme=dark&perline=10" />
-    </br>
-    <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height=50>
-  </a>
-</p>
+<h1 align="center">🧠 Technical Skills</h1>
+<div align="center">
 
-</br>
+![Skills](https://skillicons.dev/icons?i=go,py,js,bash,regex,postgres,mysql,sqlite,linux,github,git,postman&theme=dark&perline=20)
 
-<h1 align="center">❄️ Tools</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,discord,bots,md,git,github,postman,linux&theme=dark&perline=10" />
-  </a>
-</p>
-
-</br>
-
-<h1 align="center">🍁 Familiar</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,wasm,php,django,flask&theme=dark&perline=10" />
-    </br>
-</p>
+</div>
 
 <br>
 
-<h1 align="center">⭐️ Github Stats</h1>
+<h1 align="center">📌 Experience With</h1>
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,php,django,flask,vim,discord,bots&theme=dark&perline=10)
+
+</div>
+
+<br>
+
+<h1 align="center">🔍 Github Stats</h1>
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/762900281255526451)](https://discord.com/users/762900281255526451)
+
+</div>
+
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostPow3rful&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=323540&title_color=5294E2&icon_color=5294E2&text_color=ffffff&count_private=true"  alt=""/>
 </div>
@@ -81,3 +79,4 @@ func main() {
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MostPow3rful&theme=radical)
 
 </div>
+
