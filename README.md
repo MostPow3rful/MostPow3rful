@@ -28,6 +28,16 @@ func main() {
 
 <br>
 
+<h1 align="center">🌐 Socials</h1>
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2GJaZvMxwY) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itskianshahi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kian-shahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MostPow3rful) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@MostPow3rful)
+
+</div>
+
+<br>
+
 <h1 align="center">🧠 Technical Skills</h1>
 <div align="center">
 
@@ -80,3 +90,8 @@ func main() {
 
 </div>
 
+<div align="center"> 
+
+![](https://github-profile-trophy.vercel.app/?username=MostPow3rful&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
