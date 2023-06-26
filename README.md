@@ -16,7 +16,6 @@ func main() {
             "Junior" : "Web Application Security",
         },
         Hobbies    : []string{
-            "Hookah",
             "Playing CTF",
             "Playing Basketball",
             "Playing Video Games",
