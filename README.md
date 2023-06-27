@@ -38,15 +38,6 @@ func main() {
 
 <br>
 
-<h1 align="center">📌 Experience With</h1>
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,php,django,flask,vim,discord,bots&theme=dark&perline=10)
-
-</div>
-
-<br>
-
 <h1 align="center">🔍 Github Stats</h1>
 
 <div align="center">
