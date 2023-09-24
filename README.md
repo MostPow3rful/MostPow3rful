@@ -9,7 +9,7 @@ func main() {
     var Me *Kian.About = &Kian.About{
         FirstName  : "Kian",
         LastName   : "Shahi",
-        Age        : 17,
+        Age        : 18,
         Job        : "Freelancer",
         roles      : map[string]string{
             "Junior" : "Back-End (GO) Developer",
