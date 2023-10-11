@@ -1,43 +1,35 @@
-```go
-package main
-
-import (
-    Kian "https://github.com/MostPow3rful/"
-)
-
-func main() {
-    var Me *Kian.About = &Kian.About{
-        FirstName  : "Kian",
-        LastName   : "Shahi",
-        Age        : 18,
-        Job        : "Freelancer",
-        roles      : map[string]string{
-            "Junior" : "Back-End (GO) Developer",
-            "Junior" : "Web Application Security",
-        },
-        Hobbies    : []string{
-            "Playing CTF",
-            "Playing Basketball",
-            "Playing Video Games",
-            "Watching Conferences & Movies",
-        },
-    }
-}
+## 🥷 WHO ?
+```yaml
+- Gopher
+- self-taught Backend Developer
+- Security Tool Developer
+- Bug Bounty Hunter
+- CTF Player
+- Learning Web3 Concepts
 ```
 
-<br>
 
-<h1 align="center">🧠 Technical Skills</h1>
-<div align="center">
+## 📨 Follow Me
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MostPow3rful)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/MostPow3rful)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/itskianshahi/)
 
-![Skills](https://skillicons.dev/icons?i=go,py,js,bash,regex,postgres,mysql,sqlite,linux,github,git,postman&theme=dark&perline=20)
 
-</div>
+## 💻 Experience With :
+- ### Programming Languages
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Programming Languages](https://skillicons.dev/icons?i=go,py,js,php,bash,solidity&theme=dark&perline=20)
 
-<br>
+- ### Frameworks :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark&perline=20) <img src=https://gofiber.io/assets/images/logo.svg width=150 height=49/>
 
-<h1 align="center">🔍 Stats</h1>
+- ### Databases
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark&perline=20)
 
+- ### Tools
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Tools](https://skillicons.dev/icons?i=linux,github,git,postman,regex,md,vscode&theme=dark&perline=20)
+
+
+## 🌙 Stats
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/762900281255526451)](https://discord.com/users/762900281255526451)
