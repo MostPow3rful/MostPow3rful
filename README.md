@@ -19,7 +19,7 @@
 - ### Programming Languages
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Programming Languages](https://skillicons.dev/icons?i=go,py,js,php,bash,solidity&theme=dark&perline=20)
 
-- ### Frameworks :
+- ### Frameworks
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark&perline=20) <img src=https://gofiber.io/assets/images/logo.svg width=150 height=49/>
 
 - ### Databases
