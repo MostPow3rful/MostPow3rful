@@ -14,20 +14,14 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/MostPow3rful)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/itskianshahi/)
 
-
 ## 💻 Experience With :
-- ### Programming Languages
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Programming Languages](https://skillicons.dev/icons?i=go,py,js,php,bash,solidity&theme=dark&perline=20)
+- **(Programming Languages) => {** Golang, Python, Javascript, PHP, Bash, Solidity **}**
 
-- ### Frameworks
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark&perline=20) <img src=https://gofiber.io/assets/images/logo.svg width=150 height=49/>
+- **(Frameworks) => {** Gofiber, Django, FastAPI, Flask **}**
 
-- ### Databases
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark&perline=20)
+- **(Databases) => {** Postgresql, MySQL, sqlite **}**
 
-- ### Tools
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Tools](https://skillicons.dev/icons?i=linux,github,git,postman,regex,md,vscode&theme=dark&perline=20)
-
+- **(Tools) => {** Linux, Git, Github, Postman, VSCode **}**
 
 ## 🌙 Stats
 <div align="center">
