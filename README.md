@@ -1,11 +1,11 @@
 ## 🥷 WHO ?
 ```yaml
 - Gopher
+- Blockchain enthusiast
 - self-taught Backend Developer
 - Security Tool Developer
 - Bug Bounty Hunter
 - CTF Player
-- Learning Web3 Concepts
 ```
 
 
