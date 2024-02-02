@@ -7,13 +7,6 @@
 - Bug Bounty Hunter
 - CTF Player
 ```
-
-
-## 📨 Follow Me
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MostPow3rful)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/MostPow3rful)
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/itskianshahi/)
-
 ## 💻 Experience With :
 - **(Programming Languages) => {** Golang, Python, Javascript, PHP, Bash, Solidity **}**
 
